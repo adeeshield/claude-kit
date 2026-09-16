@@ -1,9 +1,23 @@
-# File safety rule
+# claude-kits
 
-A Claude Code rule file for agents that edit files the user owns or shares — spreadsheets, docs, notebooks, and synced SharePoint/OneDrive files.
+Personal collection of Claude Code rules, skills, and small standalone tools — shared as reusable templates.
 
-It sets the discipline around: closing files before editing, backing up first, working on a copy before touching the live file, one writer at a time, and verifying the result by reopening the saved file fresh instead of trusting the session that wrote it.
+## Layout
 
-## Use it
+```
+rules/       Claude Code rule files — drop into ~/.claude/rules/ to use
+skills/      Custom-authored skills (coming soon)
+projects/    Standalone vibe-coded tools and notebooks (coming soon)
+```
 
-Drop [`file-safety.md`](file-safety.md) into `~/.claude/rules/` (or your equivalent) so it loads for any session that touches user files.
+## Rules
+
+- [`file-safety.md`](rules/file-safety.md) — discipline for agents editing files the user owns or shares (spreadsheets, docs, notebooks, synced SharePoint/OneDrive files): close-before-edit, backup-first, copy-before-live, one writer at a time, verify-by-reopening.
+
+## Skills
+
+Nothing here yet.
+
+## Projects
+
+Nothing here yet.
