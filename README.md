@@ -1,4 +1,4 @@
-# claude-kits
+# claude-kit
 
 Personal collection of Claude Code rules, skills, and small standalone tools — shared as reusable templates.
 
