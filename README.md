@@ -12,7 +12,7 @@ projects/    Standalone vibe-coded tools and notebooks (coming soon)
 
 ## Rules
 
-- [Let Claude edit your files without breaking them](rules/live-file-edit-guardrails/) — guardrails for Claude working on your live spreadsheets, docs, decks and notebooks: backup first, work on a copy, one writer at a time, verify by reopening.
+- [Let Claude edit your files without breaking them](rules/live-file-edit-controls-for-claude-code/) — guardrails for Claude working on your live spreadsheets, docs, decks and notebooks: backup first, work on a copy, one writer at a time, verify by reopening.
 
 ## Skills
 
