@@ -1,1 +1,1 @@
-Nothing here yet — see the main README for what's planned.
+Custom Claude Code skills. Coming soon.

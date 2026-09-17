@@ -12,12 +12,8 @@ projects/    Standalone vibe-coded tools and notebooks (coming soon)
 
 ## Rules
 
-- [Let Claude edit your files without breaking them](rules/live-file-edit-controls-for-claude-code/) — guardrails for Claude working on your live spreadsheets, docs, decks and notebooks: backup first, work on a copy, one writer at a time, verify by reopening.
+- [Let Claude edit your files without breaking them](rules/live-file-edit-controls-for-claude-code/) — controls for Claude working on your live spreadsheets, docs, decks and notebooks, on Windows and Mac: confirm the real file, back up first, work on a copy, one writer at a time, verify by reopening.
 
-## Skills
+## License
 
-Nothing here yet.
-
-## Projects
-
-Nothing here yet.
+[CC BY 4.0](LICENSE). Use and adapt anything here; credit [adeeshield](https://github.com/adeeshield).

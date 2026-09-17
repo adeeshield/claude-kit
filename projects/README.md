@@ -1,1 +1,1 @@
-Nothing here yet — see the main README for what's planned.
+Standalone vibe-coded tools and notebooks. Coming soon.
