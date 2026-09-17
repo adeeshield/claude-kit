@@ -4,6 +4,8 @@ I had Claude Code updating a large spreadsheet. The run cut out partway, yet it 
 
 [![Download file-safety.md](https://img.shields.io/badge/Download-file--safety.md-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/adeeshield/claude-kit/master/rules/live-file-edit-guardrails/file-safety.md)
 
+Link blocked on your work network? Open [file-safety.md](file-safety.md) here and use **Copy raw file**.
+
 ## Set it up
 
 **All your projects.** Paste this into Claude Code:
