@@ -1,8 +1,10 @@
 # Let Claude edit your files without breaking them
 
-For three sessions, Claude Code edited my own copy of a spreadsheet, sure it was my team's file: an old script pointed there, and both had the same name. Another run cut out halfway, still reported "done", and left thousands of rows empty. Nothing in my setup told it to check which file was real, back up first, or reopen the file before saying "done".
+For three sessions, Claude Code edited my own copy of a spreadsheet, sure it was my team's file: an old script pointed there, and both had similar names. Another run cut out halfway, still reported "done", and left thousands of rows empty. Nothing in my setup told it to check which file was real, back up first, or reopen the file before saying "done".
 
 So I wrote those controls down: confirm which file is the real one, close it everywhere, back up, work on a copy, leave app settings alone, one writer at a time, stop and ask if the plan breaks, and verify the saved file fresh. This is how I built control over what Claude does when it touches a live file. Works on Windows and Mac.
+
+It's slower and uses more tokens. Most times, caution is the right cost: broken files cost more.
 
 ## Why a rules file
 
